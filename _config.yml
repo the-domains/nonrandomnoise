@@ -1,0 +1,14 @@
+layout_spectrum: 0.7664214156102389
+typography_spectrum: 0.698202395811677
+color:
+  brandStrength: 0.6921507511287928
+  lightness: 0.4523443903308362
+  saturation: 0.7281347708776593
+  rhythmicContrast: 0.3832696701865643
+  brandColors:
+    - '#36362C'
+    - '#5D917D'
+    - '#A8AD80'
+    - '#E6D4A7'
+    - '#825534'
+name: NonRandomNoise
